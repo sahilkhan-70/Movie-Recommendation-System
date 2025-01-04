@@ -1,4 +1,5 @@
-﻿# 🎬 Movie Recommendation System  
+﻿# 🎬 Movie Recommendation System
+[Movie Recommendation System](https://github.com/user-attachments/assets/bb2d016c-b28b-4824-b2de-17d00b74a1ca)
 
 A personalized movie recommendation system using **content-based filtering** and **collaborative filtering** to help users discover movies they'll love.  
 
@@ -24,9 +25,6 @@ This project uses the **MovieLens Small Dataset** ([download here](https://group
 
 3. **Interactive Interface**  
    - Enter a movie name in the app and get recommendations along with posters.  
-
-## 🌟 Demo  
-![App Screenshot](overview.png) 
 
 ## 🔑 Key Libraries Used  
 - **Pandas**: Data manipulation  
